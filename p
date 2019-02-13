@@ -1,1 +1,0 @@
-/Users/takafusa/.pyenv/versions/anaconda3-5.3.0/etc/p
